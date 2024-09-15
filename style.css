@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(1, 221, 148);
+    padding: 50px;
+}
+
+header a{
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    padding: 10px;
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+    color:lightgreen;
+    font-size: 75px;
+    text-shadow: 15px 10px 5px grey;
+}
+
+li{
+    font-size: 25px;
+}
+
+p{
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    border:1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    color:black;
+    margin-top: 10px;
+
+}
